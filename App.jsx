@@ -154,7 +154,7 @@ export default function AssemblyEndgame() {
                 left: `${randomLeft}%`,
                 animationDelay: `${delay}s`
               }}>
-              😵
+              ☠️
             </div>
           )
         })}
