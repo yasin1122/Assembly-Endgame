@@ -1,3 +1,5 @@
+<img width="1080" alt="assembly-endgame" src="https://github.com/user-attachments/assets/fcbbeb3e-4c0b-4c5e-894e-721e5d123c6c" />
+
 # Assembly Endgame
 
 Assembly Endgame is a fun, engaging web-based game where programmers take on a twist on the classic Hangman game. In this game, you must correctly guess hidden assembly code instructions to "save the world" from the dreaded task of writing Assembly.
